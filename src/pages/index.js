@@ -1,16 +1,15 @@
-import * as React from "react"
-import { Link } from "gatsby"
-import { StaticImage } from "gatsby-plugin-image"
+import * as React from "react";
+import { Link } from "gatsby";
+import { StaticImage } from "gatsby-plugin-image";
 
-import Layout from "../components/layout"
-import Seo from "../components/seo"
-import Header from "../components/header"
-import Main from "../components/main"
+import Layout from "../components/layout";
+import Seo from "../components/seo";
+import Header from "../components/header";
+import Main from "../components/main";
 
 const IndexPage = () => (
   // <Layout>
   //   <Seo title="Home" />
-  //   <Header />
   //   <section className="py-5 text-center container">
   //     <div className="row py-lg-5">
   //       <div className="col-lg-6 col-md-8 mx-auto">
@@ -33,10 +32,9 @@ const IndexPage = () => (
   //     </div>
   //   </section>
   // </Layout>
-  <>
-    <Header />
+  <Layout>
     <Main />
-  </>
-)
+  </Layout>
+);
 
-export default IndexPage
+export default IndexPage;

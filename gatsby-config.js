@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Boostrap 5 Sass Starter`,
-    description: `A simple bootstrap 5 and Sass starter for Gatsby. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `@r-ichard`,
+    title: `Hello World Wine`,
+    description: `Simple wine tastings for great people!`,
+    author: `alejandro`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -38,4 +38,4 @@ module.exports = {
     },
     `gatsby-plugin-gatsby-cloud`,
   ],
-}
+};
