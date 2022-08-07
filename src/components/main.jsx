@@ -36,8 +36,8 @@ const Main = () => {
                 />
                 <WineCard
                   name="Weinkelter Reisling"
-                  facts="Riesling's from the Mosel region of Germany are characterized by stone fruit, green apple, and crisp acidity. These vines grow on steep inclines in slate-based soils. "
                   description="Bright, fresh, and acidic. Classic example of a Riesling from the Mosel region in Germany."
+                  facts="Riesling's from the Mosel region of Germany are characterized by stone fruit, green apple, and crisp acidity. These vines grow on steep inclines in slate-based soils. "
                   pairing="Chinese food, Cajun cuisine, Tex-Mex (with cilantro), roasted pork, roasted duck or goose, seafood, Thai food"
                   wineryInfo="Hermann wine estate is located in the town of Ürzig in the Mosel. The family has been involved in winemaking for several centuries. The vineyards are managed in a sustainable manner and the work is all done by hand. The work in the vineyards is particularly challenging considering that the slopes are close to a 90° slope."
                   link="https://www.vivino.com/US-OH/en/weinkelter-riesling-kabinett-urziger-wurzgarten-white-wine-v-hvcyq/w/4951553"
@@ -58,8 +58,10 @@ const Main = () => {
                 <WineCard
                   name="Dry Creek Chenin"
                   description="Crisp, dry white from Sonoma County. Made in the style of the Loire valley."
+                  facts="Fermented in 100% stainless steel barrels. This chenin blanc is characterized by aromas of honeydew, watermelon, and mango. Tastes of peach, lemon and cucumber."
+                  pairing="Ham, Roast Pork, Chicken Kiev, Grouper, Fish & Chips, Shrimp Scampi. Also a great pick for Thanksgiving dinner!"
+                  wineryInfo="Family owned and one of the older Sonoma County wineries. Dry Creek certifies that 100% of their estate vineyards are sustainably farmed."
                   link="https://www.vivino.com/US-OH/en/dry-creek-vineyard-dry-chenin-blanc-wilson-ranch/w/75885"
-                  additionalInformation="Extremely versatile and food friendly white wine. This one is fermented in 100% stainless steel barrels. At first swirl, aromatics of honeydew, watermelon and mango spring forward from the glass with floral notes of jasmine and orange blossom. On the palate, the wine has refreshing flavors of peach, Meyer lemon and cucumber with hints of geranium, white tea and white pepper."
                 />
               </div>
             </div>
@@ -78,7 +80,10 @@ const Main = () => {
                 <WineCard
                   name="Burgans Albariño"
                   description="Citrus and minerals come together! Albariño wines are known for their peculiar salinity."
-                  link=""
+                  facts="Incredibly fruit forward for an “old world” wine, Albariño sings the song of relaxed and fulfilling Spanish coastal life."
+                  pairing="Lean fish and shellfish. A great pairing for Spanish Paella!"
+                  wineryInfo="Burgans is a custom blend made for European Cellars by Martin Codax, the largest cooperative in Rías-Baixas. Cooperatives source their grapes from many vineyards, and then are blended to form the perfect mix."
+                  link="https://www.vivino.com/US-OH/en/burgans-rias-baixas-albarino/w/18113"
                 />
               </div>
             </div>
@@ -96,8 +101,11 @@ const Main = () => {
                 />
                 <WineCard
                   name="Cote de Nuits-Villages"
-                  description="Introductory Burgundy Pinot Noir. (Not the peasant's grape!). Dry cherries, and mushrooms."
-                  link=""
+                  description="Introductory Burgundy Pinot Noir. Not the peasant's grape!"
+                  facts="Burgundy is world renowned as the premier region for Pinot Noir. Some wines can cost tens of thousands of dollars. They are charactized by red fruit, and earthiness (think mushrooms)."
+                  pairing="Steak, Lamb, Veal. Also works with tomato based sauces."
+                  wineryInfo="Wineries in burgundy work a little differently than traditional wineries. Domaines source their grapes from all over Burgundy, and then make the different styles under the same label. Maison Joseph Drouhin owns parcels in about 90 different appelations. The name 'Côte de Nuits' comes from the town of Nuits-Saint-Georges, like Beaune, the capital of its own Côte (or slope)."
+                  link="https://www.vivino.com/US-OH/en/joseph-drouhin-cote-de-nuits-villages/w/24106"
                 />
               </div>
             </div>
@@ -115,8 +123,11 @@ const Main = () => {
                 />
                 <WineCard
                   name="Viña Ardanza"
-                  description="Value Rioja Alta tempranillo. Leather and plums make a great pairing with meats and strong cheeses."
-                  link=""
+                  description="Introductory Rioja. A favorite among Puertoricans!"
+                  facts="This wine is a blend of 78% tempranillo, and 22% garnacha. Rioja wines are known for aromas of leather paired with plums."
+                  pairing="Red meats, strong cheeses like manchego, hearty vegetable stews."
+                  wineryInfo="Founded in 1890 La Rioja Alta is one of the only wineries in the rioja region to be able to produce Gran Reserva level wines. Gran Reserva classified wines need to be stored in barrels for 2+ years then stored in bottles for 2 more years. La Rioja Alta has a firm commitment to honor the traditional way of making wine while still incorporating new technologies in the wine making process."
+                  link="https://www.vivino.com/US-OH/en/la-rioja-alta-vina-ardanza-reserva/w/7973"
                 />
               </div>
             </div>
@@ -135,7 +146,10 @@ const Main = () => {
                 <WineCard
                   name="La Spinetta Barbera D'Asti"
                   description="Barbera from Italy. Easy drinking red, perfect for pizza!"
-                  link=""
+                  facts="Barbera D'Asti is the go to wine for college kids in Italy. It is easy drinking and relatively cheap but still has great high quality."
+                  pairing="Anything italian! Goes great with pizza, red sauces, and lasagna."
+                  wineryInfo="Spinetta makes multiple different types of wines including: Moscato, Barbaresco, and Barolo. They emphasize low yields in order to concentrate flavor on the remaining grapes. The rhinoceros on its label is an ode to a sketch of a rhino by German artist, Albrecht Durer. Durer sketched the rhino off of description in 1515 without ever seeing one. He used clever imagination and creativity to make a masterpiece – just like a winemaker."
+                  link="https://www.vivino.com/US-OH/en/la-spinetta-ca-di-pian-barbera-d-asti/w/15167"
                 />
               </div>
             </div>
