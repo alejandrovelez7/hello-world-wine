@@ -7,6 +7,7 @@ const Main = () => {
     <main role="main">
       <section class="jumbotron text-center">
         <div class="container">
+          <h1>&#127803; Erika's Bachelorette Party &#127881;</h1>
           <StaticImage
             src="../images/erika-1.jpg"
             width={300}
@@ -35,8 +36,11 @@ const Main = () => {
                 />
                 <WineCard
                   name="Weinkelter Reisling"
+                  facts="Riesling's from the Mosel region of Germany are characterized by stone fruit, green apple, and crisp acidity. These vines grow on steep inclines in slate-based soils. "
                   description="Bright, fresh, and acidic. Classic example of a Riesling from the Mosel region in Germany."
-                  link=""
+                  pairing="Chinese food, Cajun cuisine, Tex-Mex (with cilantro), roasted pork, roasted duck or goose, seafood, Thai food"
+                  wineryInfo="Hermann wine estate is located in the town of Ürzig in the Mosel. The family has been involved in winemaking for several centuries. The vineyards are managed in a sustainable manner and the work is all done by hand. The work in the vineyards is particularly challenging considering that the slopes are close to a 90° slope."
+                  link="https://www.vivino.com/US-OH/en/weinkelter-riesling-kabinett-urziger-wurzgarten-white-wine-v-hvcyq/w/4951553"
                 />
               </div>
             </div>
@@ -54,7 +58,8 @@ const Main = () => {
                 <WineCard
                   name="Dry Creek Chenin"
                   description="Crisp, dry white from Sonoma County. Made in the style of the Loire valley."
-                  link=""
+                  link="https://www.vivino.com/US-OH/en/dry-creek-vineyard-dry-chenin-blanc-wilson-ranch/w/75885"
+                  additionalInformation="Extremely versatile and food friendly white wine. This one is fermented in 100% stainless steel barrels. At first swirl, aromatics of honeydew, watermelon and mango spring forward from the glass with floral notes of jasmine and orange blossom. On the palate, the wine has refreshing flavors of peach, Meyer lemon and cucumber with hints of geranium, white tea and white pepper."
                 />
               </div>
             </div>
