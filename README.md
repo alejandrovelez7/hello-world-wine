@@ -1,4 +1,8 @@
-# hello-world-wine
+# Hello World Wine
+
+Simple gatsby website to showcase different simple wine tastings. 
+
+Check it out at https://helloworldwine.com/
 
 ## ✏️ How to develop locally
 

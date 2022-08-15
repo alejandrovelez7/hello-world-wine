@@ -22,11 +22,14 @@ const AboutPage = () => (
           </div>
           <div className="align-self-center container-sm flex-shrink-1">
             <p>
-              When learning a new programming language the first thing student's are taught is how to make the computer print out "Hello World!". 
-              A tradition started started in the 1970s still widely in use today as a barometer of whether your program is working correctly. It lets us know that our first step is sound, and opens up a world of possibilities!
+              When learning a new programming language the first thing students are taught is how to make the computer print out "Hello World!". 
+              A tradition started in the 1970s and still widely in use today as a measurement of whether your program is working correctly. It lets us know that our first step is sound, and opens up a world of possibilities!
             </p>
             <p>
               In the vast and intimidating world of wine it can be daunting to try new things, but tastings can open our eyes to new styles and regions we may fall in love with. We are not wine experts, but through simple tastings we can help you say "Hello World!" to the world of wine.
+            </p>
+            <p>
+              Based in Columbus, Ohio for information on tastings and bookings <a href="mailto:alejandrovelezcalderon@gmail.com">Email Us!</a>  
             </p>
           </div>
         </div>
