@@ -37,7 +37,7 @@ const Main = () => {
                 <WineCard
                   name="Weinkelter Reisling"
                   description="Bright, fresh, and acidic. Classic example of a Riesling from the Mosel region in Germany."
-                  facts="Riesling's from the Mosel region of Germany are characterized by stone fruit, green apple, and crisp acidity. These vines grow on steep inclines in slate-based soils. "
+                  facts="Rieslings from the Mosel region of Germany are characterized by stone fruit, green apple, and crisp acidity. These vines grow on steep inclines in slate-based soils. "
                   pairing="Chinese food, Cajun cuisine, Tex-Mex (with cilantro), roasted pork, roasted duck or goose, seafood, Thai food"
                   wineryInfo="Hermann wine estate is located in the town of Ürzig in the Mosel. The family has been involved in winemaking for several centuries. The vineyards are managed in a sustainable manner and the work is all done by hand. The work in the vineyards is particularly challenging considering that the slopes are close to a 90° slope."
                   link="https://www.vivino.com/US-OH/en/weinkelter-riesling-kabinett-urziger-wurzgarten-white-wine-v-hvcyq/w/4951553"
@@ -123,7 +123,7 @@ const Main = () => {
                 />
                 <WineCard
                   name="Viña Ardanza"
-                  description="Introductory Rioja. A favorite among Puertoricans!"
+                  description="Introductory Rioja Reserva from a legendary winery."
                   facts="This wine is a blend of 78% tempranillo, and 22% garnacha. Rioja wines are known for aromas of leather paired with plums."
                   pairing="Red meats, strong cheeses like manchego, hearty vegetable stews."
                   wineryInfo="Founded in 1890 La Rioja Alta is one of the only wineries in the rioja region to be able to produce Gran Reserva level wines. Gran Reserva classified wines need to be stored in barrels for 2+ years then stored in bottles for 2 more years. La Rioja Alta has a firm commitment to honor the traditional way of making wine while still incorporating new technologies in the wine making process."
